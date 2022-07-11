@@ -1,0 +1,225 @@
+{
+  "translation": [
+    {
+      "deu": "Change language",
+"eng":"Sprache ändern"
+    },
+    {
+      "deu": "Urban Fabric: Urbaner Boden und versiegelte Oberflächen in Berlins Nachbarschaften - Prototyp/Entwurf",
+"eng": "Urban Fabric: urban soil and soil sealing in Berlin - prototype"
+    },
+
+{"deu": "Diese App wurde erstellt um den gegenwärtigen Bodenversiegelungszustand in Berlins Nachbarschaften abzubilden und zu ermitteln, wie viel Boden bzw. Pflanzensubstrat erforderlich sein wird, um mit grüner Infrastruktur klimaangepasstere Nachbarschaften zu gestalten. In der gegenwärtigen Version ist ausschließich der Planungsraum Wrangelkiez in Berlin-Kreuzberg erkundbar. Die Karten und Diagramme basieren auf Open Data Daten aus dem Geoportal Berlin,  dem  Umweltatlas Berlin und vom Amt für Statistik Berlin-Brandenburg.",
+"eng": "This web tool was developed with the aim to illustrate the current state of soil sealing of the neighborhoods in Berlin. It can be used in order to estimate the demand for soil that will arrise once we employ nature based solutions in order increase climate resilience in our neighborhoods. In the current version only the neigborhood Wrangelkiez can be explored. The maps and the diagrams are derived from open source data provided in the Environmental Atlas of the Senate Department for the Environment, Urban Mobility, Consumer Protection and Climate Action."
+},
+    {
+      "deu": "Autorin: Moreen Willaredt",
+"eng": "Author: Moreen Willaredt"
+    },
+    {
+      "deu": "Kontakt: moreen.willaredt@campus.tu-berlin.de",
+"eng": "Contact: moreen.willaredt@campus.tu-berlin.de"
+    },
+    {
+      "deu": "Auswahl Nachbarschaft",
+"eng": "Choose a neighborhood"
+    },
+    {
+      "deu": "Fahre mit der Maus über die Karte und Wähle durch klicken eine Nachbarschaft aus (in der gegenwärtigen Version ist ausschließlich der Wrangelkiez wählbar)",
+"eng": "Hover your mouse over the map and chose a neighborhood by clicking (NOTE: in this version currently only the neighborhood Wrangelkiez can be chosen)"
+    },
+    {
+      "deu": "Flächenverteilung",
+"eng": "Distribution of surface types"
+    },
+    {
+      "deu": "Fahre mit der Maus über die Karte, um zu erkunden, aus welchen Flächenarten sich der Kiez zusammen setzt und woraus sie bestehen",
+"eng": "Hover your mouse over the map for exploring the surface types constituting the neighborhood and what their material is"
+    },
+    {
+      "deu": "Anteile der Flächenarten an der Gesamtfläche",
+"eng": "Proportions of surface types in relation to the total space"
+    },
+    {
+      "deu": "Anteile der Flächenarten am öffentlichen Raum (ohne Gebäude, Hinterhöfe und Gewässer)",
+"eng": "Proportions of surface types in relation to the public space"
+    },
+    {
+      "deu": "Anzahl der Parkplätze im ausgewählten Bereich",
+"eng": "Number of parking lots in the selected neighborhood"
+    },
+    {
+      "deu": "Flächenversiegelung",
+"eng": "Surface sealing"
+    },
+    {
+      "deu": "In dieser Karte spiegeln die Farben die Versiegelungsklassen der Flächenbeläge wieder",
+"eng": "In this map the colors represent the sealing classes of the hardscapes materials"
+    },
+    {
+      "deu": "Material der Versiegelung nach Flächenarten",
+"eng": "Material of the surfaces types"
+    },
+    {
+      "deu": "Versiegelungsklassen der Flächenarten",
+"eng": "Sealing classes of the surface types"
+    },
+    {
+      "deu": "Flächenanteile der Versiegelungsmaterialien",
+"eng": "Proportions of sealing materials in the neighborhood"
+    },
+    {
+      "deu": "Straßenbäume",
+"eng": "Street trees"
+    },
+    {
+      "deu": "Fahre mit der Maus über die Karte, um zu erkunden, welche Bäume im Kiez wachsen, wie alt sie sind und wieviel Fläche ihnen in ihrer Baumscheibe zur Verfügung steht",
+"eng": "Hover your mouse over the map to discover which trees grow in the neighborhood, how old they are and how much unsealed space they have in their tree pit"
+    },
+    {
+      "deu": "Baumarten im ausgewählten Bereich",
+"eng": "Tree types in selected neighborhood"
+    },
+    {
+      "deu": "Achtung: Nicht alle Straßen sind vollständig in der ausgewählten Fläche enthalten",
+"eng": "NOTE: not all streets are included in their entire length in the selected neighborhood"
+    },
+    {
+      "deu": "Baumarten pro Straße",
+"eng": "Tree types growing in each street"
+    },
+    {
+      "deu": "Pflanzjahr der Bäume",
+"eng": "Planting year of trees"
+    },
+    {
+      "deu": "Urbane Böden",
+"eng": "Urban soils"
+    },
+    {
+      "deu": "Fahre mit der Maus über die Karte, um zu erkunden, in welchen Flächen unversiegelter urbaner Boden erlebbar ist und wichtige Ökosystemdienstleistungen erbringen kann.",
+"eng": "Hover your mouse over the map to discover in which surfaces you can experience unsealed soil that can deliver important ecosystem services"
+    },
+    {
+      "deu": "Status quo:",
+"eng": "Current status"
+    },
+    {
+      "deu": "Stelle an den Balken das Ausmaß der Begrünungsszenarien ein, um zu ermitteln, wieviel Boden zur Umsetzung gebraucht wird",
+"eng": "Move the slider to manipulate the extend of the greening szenarios in order to determine how much soil is going to be needed to realize the transformation"
+    },
+    {
+      "deu": "Baumscheibengröße in % (100% ist Ausgangsgröße)",
+"eng": "Tree pit size in % (current size corresponds to 100%)"
+    },
+    {
+      "deu": "Aushubtiefe nach Entsiegelung in m",
+"eng": "Depth of hole after desealing"
+    },
+    {
+      "deu": "Anzahl der Gebäude mit Gründach:",
+"eng": "Number of houses with green roofs"
+    },
+    {
+      "deu": "Parklets aufstellen",
+"eng": "Set up raised beds on parking lots (Parklets)"
+    },
+    {
+      "deu": "Anzahl der Parkplätze:",
+"eng": "Number of raised beds"
+    },
+    {
+      "deu": "Höhe des Beets in m",
+"eng": "Height of raised bed"
+    },
+    {
+      "deu": "Fassade begrünen",
+"eng": "Greened Facades"
+    },
+    {
+      "deu": "in Bearbeitung, noch nicht intergriert",
+"eng": "this is currently under construction and not yet implemented"
+    },
+    {
+      "deu": "Anzahl Gebäude für Fassadenbegrünung:",
+"eng": "Number of buildings for facade greening"
+    },
+    {
+      "deu": "Bodenvolumen pro Fassadenbegrünung in m³:",
+"eng": "soil volume per facade greening entity"
+    },
+    {
+      "deu": "Anteile der Flächen mit unversiegeltem Boden an Gesamtfläche",
+"eng": "Proportion of unsealed soil in relation to the total area"
+    },
+    {
+      "deu": "Anteil unversiegelter Fläche am öffentlichen Raum:",
+"eng": "Proportion of unsealed surface in relation to public space"
+    },
+    {
+      "deu": "Anzahl begrünter Gebäudedächer:",
+"eng": "Number of greened roofs"
+    },
+    {
+      "deu": "Durchschnittliche Baumscheibengröße:",
+"eng": "Average size tree pit"
+    },
+    {
+      "deu": "Aufgestelle Hochbeete auf Parkplätzen:",
+"eng": "Number of parklets set up on parking lots"
+    },
+    {
+      "deu": "PDF Straßenbefahrung",
+"eng": "PDF street survey"
+    },
+    {
+      "deu": "Technische Beschreibung der Daten aus der Straßenbefahrung:",
+"eng": "Technical description of data obtained in street survey"
+    },
+    {
+      "deu": "Die Zuordnung der Versiegelungsklassen orientiert sich an:",
+"eng": "soil sealing classes were assigned according to:"
+    },
+    {
+      "deu": "Ausgewählt:",
+"eng": "selected"
+    },
+    {
+      "deu": "Gesamtfläche:",
+"eng": "total area"
+    },
+    {
+      "deu": " % des öffentlichen Raums in der ausgewählten Nachbarschaft beherbergt unversiegelten Boden und kann bodenspezifische Ökosystemdienstleistungen erbringen",
+"eng": "% of the public space in the selected area contains unsealed urban soil and can provide soil related ecosystem services"
+    },
+    {
+      "deu": "Versiegelungsklassen nach Timm et al. 2018",
+"eng": "classes of soil sealing from Timm et al. 2018"
+    },
+    {
+      "deu": "Klicken zum Aktivieren",
+"eng": "click to activate"
+    },
+    {
+      "deu": "Baumscheiben vergrößern",
+"eng": "Resize tree pits"
+    },
+      {
+      "deu": "Dächer begrünen",
+"eng": "Greening roofs"
+    },
+    {
+      "deu": "Substrattiefe in cm:",
+"eng": "substrate depth in cm"
+    },
+        {
+      "deu": "Genutzte Datensätze:",
+"eng": "Employed data sets"
+    }
+   
+  ],
+
+  "languages": [
+    "deu", "eng"
+  ]
+}

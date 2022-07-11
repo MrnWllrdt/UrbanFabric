@@ -1,0 +1,19 @@
+material,    Bezeichnung,V_grad
+0,Gebaeude,4
+1,   Beton,4
+2,   Asphalt,4
+3,   Mosaikpflaster (ca. 50/50mm),2
+4,   Kleinsteinpflaster (ca. 90/90 mm),2
+5,   Grosssteinpflaster (ca. 160/160-220mm bzw. 120/120-180mm),2
+6,   Betonpflaster,2
+7,   Gehwegplatten Beton (350/350mm),3
+8,   Gehwegplatten Naturstein,3
+9,   Granitplatte Grossformat (alt/neu),3
+10,  Betonplatte Grossformat (>350/350mm),3
+11,  Asphaltueberzug auf Pflaster,4
+12,  Asphaltueberzug auf Beton,4
+13,  wassergebunden Decke,1
+14,  unversiegelt (Sand etc.),0
+15,  Gruen,0
+16,  befestigte Mischflaeche,1
+17,  sonstiges Material,NA

@@ -1,0 +1,19 @@
+material;    Bezeichnung;V_grad;farbe;order;engl
+0;  Gebäude;4;col_mat_geb;17;building
+1;   Beton;4;col_mat_bet;14;concrete
+2;   Asphalt;4;col_mat_asph;13;asphalt
+3;   Mosaikpflaster (ca. 50/50mm);2;col_mat_mos;5;mosaique pavers
+4;   Kleinsteinpflaster (ca. 90/90 mm);2;col_mat_klStpfl;6;small format stone
+5;   Grosssteinpflaster (ca. 160/160-220mm bzw. 120/120-180mm);2;col_mat_grStpfl;8;big format stone
+6;   Betonpflaster;2;col_mat_betPf;7;concrete pavers
+7;   Gehwegplatten Beton (350/350mm);3;col_mat_gehwPlB;9;concrete pavers small
+8;   Gehwegplatten Naturstein;3;col_mat_gewhPlN;10;large stone pavers
+9;   Granitplatte Grossformat (alt/neu);3;col_mat_grGranPl;11;granite pavers
+10;  Betonplatte Grossformat (>350/350mm);3;col_mat_grBetPl;12;large concrete pavers
+11;  Asphaltueberzug auf Pflaster;4;col_mat_aspAP;16;asphalt on pavers
+12;  Asphaltueberzug auf Beton;4;col_mat_aspAB;15;asphalt on pavers
+13;  wassergebunden Decke;1;col_mat_wasgebD;4;water-bound ways
+14;  unversiegelt (Sand etc.);0;col_mat_unvers;2; un-sealed
+15;  Grün;0;col_mat_gruen;1;greened
+16;  befestigte Mischfläche;1;col_mat_befMisch;3;mixed surface
+17;  sonstiges Material;NA;col_mat_NA;18;other
